@@ -1,0 +1,16 @@
+.App-header {
+  width:100%;
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  /*font-size: calc(10px + 2vmin);*/
+  /*color: white;*/
+}
+.App-header-white{
+  width:100%;
+  background-color: #efeef5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
